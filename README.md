@@ -1,2 +1,2 @@
-# Rock-Paper-Scissors
-JavaScript project implementing the Rock Paper Scissors game
+# Rock Paper Scissors Game
+# JavaScript Implementation
